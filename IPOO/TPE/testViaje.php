@@ -1,5 +1,5 @@
 <?php
-include_once ("viajeFeliz.php");
+include_once ("viaje.php");
 include_once ("pasajero.php");
 include_once ("responsableV.php");
 
@@ -22,8 +22,8 @@ include_once ("responsableV.php");
     echo"||   7) Agregar responsable de viaje             ||\n";
     echo"||   8) Borrar pasajero                          ||\n";
     echo"||   9) Ver datos de viaje                       ||\n";
-    echo"||   10) Ver datos de los pasajeros              ||\n";
-    echo"||   11) SALIR                                   ||\n";
+    echo"||  10) Ver datos de los pasajeros               ||\n";
+    echo"||  11) SALIR                                    ||\n";
     echo"---------------------------------------------------\n";
 }
 /**

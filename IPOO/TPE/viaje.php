@@ -25,7 +25,7 @@
     Se debe verificar que el pasajero no este cargado mas de una vez en el viaje. De la misma forma cargue la información del responsable del viaje.
 */
 
-class Viaje{
+class viaje{
     //Atributos
     //int $codigoViaje, $cantPasajeros, $cantMaxPasajeros
     //string $nombreDestino
