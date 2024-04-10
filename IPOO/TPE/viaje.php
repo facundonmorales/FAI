@@ -1,7 +1,7 @@
 <?php 
 
 /* 
-    Nombre:Facundo Nahuel
+    Nombre: Facundo Nahuel
     Apellido: Morales
     Legajo:FAI-3294
  */

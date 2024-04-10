@@ -4,7 +4,7 @@ include_once ("pasajero.php");
 include_once ("responsableV.php");
 
 /* 
-    Nombre:Facundo Nahuel
+    Nombre: Facundo Nahuel
     Apellido: Morales
     Legajo:FAI-3294
 */
