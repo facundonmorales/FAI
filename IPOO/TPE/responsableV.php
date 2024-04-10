@@ -1,6 +1,6 @@
 <?php 
 
-    class ResponsableV {
+    class responsableV {
         private $nroEmpleado;
         private $nroLicencia;
         private $nombre;
